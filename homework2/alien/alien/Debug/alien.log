@@ -1,0 +1,8 @@
+﻿  alien.cpp
+C:\Users\alena\Desktop\cpp_homework_2022\homework2\alien\alien\alien.cpp(18,31): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\alena\Desktop\cpp_homework_2022\homework2\alien\alien\alien.cpp(18,59): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\alena\Desktop\cpp_homework_2022\homework2\alien\alien\alien.cpp(18,73): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\alena\Desktop\cpp_homework_2022\homework2\alien\alien\alien.cpp(23,35): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\alena\Desktop\cpp_homework_2022\homework2\alien\alien\alien.cpp(25,31): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+C:\Users\alena\Desktop\cpp_homework_2022\homework2\alien\alien\alien.cpp(32,28): warning C4244: аргумент: преобразование "uint64_t" в "const unsigned int", возможна потеря данных
+  alien.vcxproj -> C:\Users\alena\Desktop\cpp_homework_2022\homework2\alien\Debug\alien.exe
