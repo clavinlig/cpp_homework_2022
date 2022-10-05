@@ -12,7 +12,7 @@ int main()
     std::cout << "Enter the text :" << '\n';
     getline(std::cin, text);
 
-    uint64_t pos = 0;
+    int pos = 0;
     while (pos < text.size())
     {
         if (std::isspace(text[pos]) || (std::ispunct(text[pos]) && text[pos] != '-'))
