@@ -1,0 +1,5 @@
+﻿  insertion_sort.cpp
+C:\Users\alena\Desktop\cpp_homework_2022\homework2\insertion_sort\insertion_sort\insertion_sort.cpp(12,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alena\Desktop\cpp_homework_2022\homework2\insertion_sort\insertion_sort\insertion_sort.cpp(19,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\alena\Desktop\cpp_homework_2022\homework2\insertion_sort\insertion_sort\insertion_sort.cpp(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+  insertion_sort.vcxproj -> C:\Users\alena\Desktop\cpp_homework_2022\homework2\insertion_sort\Debug\insertion_sort.exe
